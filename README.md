@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Tataran Stefan-George (@EnsyFane)
+- 👀 I’m interested in Machine Learning, Distributed System apps, Rubik's Cube, Chess and also playing and developing games.
+- 🌱 I’m currently learning stuff about AI and how to build a fully fledged server-client app.
